@@ -11,11 +11,6 @@ A simple, interactive single-page web app built with **HTML**, **CSS**, and **Ja
 
 ---
 
-##  Live Demo
-
- [View the Live Site](https://ayunda808.github.io/car-explorer/) *(replace with your GitHub Pages link if hosted)*
-
----
 
 ##  Project Description
 
