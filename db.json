@@ -1,0 +1,84 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "BMW",
+      "model": "M3",
+      "year": 2021,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "body_type": "Sedan",
+      "image": "https://mkt-vehicleimages-prd.autotradercdn.ca/photos/chrome/Expanded/White/2021BMC110001/2021BMC11000101.jpg?w=400"
+    },
+    {
+      "id": 2,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2019,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "body_type": "Sedan",
+      "image": "https://i.imgur.com/hGOhcOX.jpeg"
+    },
+    {
+      "id": 3,
+      "make": "Mercedes",
+      "model": "GLE",
+      "year": 2022,
+      "transmission": "Automatic",
+      "fuel_type": "Hybrid",
+      "body_type": "SUV",
+      "image": "https://i.imgur.com/8NDUVdk.jpeg"
+    },
+    {
+      "id": 4,
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2020,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "body_type": "Sedan",
+      "image": "https://i.imgur.com/up2wDxN.jpeg"
+    },
+    {
+      "id": 5,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2021,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "body_type": "Coupe",
+      "image": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/vdat/submodels/ford_mustang_ford-mustang-gt-coupe_2021-1644862810784.jpg?fill=18:11&resize=640:*"
+    },
+    {
+      "id": 6,
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2022,
+      "transmission": "Automatic",
+      "fuel_type": "Electric",
+      "body_type": "Sedan",
+      "image": "https://images.hgmsites.net/lrg/2022-tesla-model-s-plaid-awd-angular-front-exterior-view_100828864_l.jpg"
+    },
+    {
+      "id": 7,
+      "make": "Subaru",
+      "model": "Impreza",
+      "year": 2018,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "body_type": "Hatchback",
+      "image": "https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i38431310/2018_subaru_impreza_angularfront.jpg"
+    },
+    {
+      "id": 8,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2020,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "body_type": "Sedan",
+      "image": "https://cars.usnews.com/static/images/Auto/izmo/i159614244/2020_honda_civic_si_sedan_angularfront.jpg"
+    }
+  ]
+}
