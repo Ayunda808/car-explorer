@@ -1,16 +1,16 @@
 // ======= DOM Elements =======
-const carList = document.getElementById('car-list');
-const searchInput = document.getElementById('search');
-const filterDropdown = document.getElementById('filter');
-const favoritesList = document.getElementById('favorites-list');
+const carList = document.getElementById('car-list'); // Main car list
+const searchInput = document.getElementById('search');// Search input
+const filterDropdown = document.getElementById('filter');// Filter dropdown
+const favoritesList = document.getElementById('favorites-list'); // Favorites list
 
 // ======= Global Variables =======
-let allCars = [];
-let favoriteCars = [];
+let allCars = []; // All cars fetched from the server
+let favoriteCars = []; // Array to hold favorite cars
 
 // ======= Fetch Data from json-server =======
-fetch('https://ayunda808.github.io/car-explorer/')
-  .then(response => response.json())
+fetch('https://ayunda808.github.io/car-explorer/') // Adjust the URL to your json-server endpoint
+  .then(response => response.json()) // Parse the JSON response
   .then(data => {
     allCars = data;
     displayCars(allCars);
