@@ -9,7 +9,7 @@ let allCars = []; // All cars fetched from the server
 let favoriteCars = []; // Array to hold favorite cars
 
 // ======= Fetch Data from json-server =======
-fetch('https://car-api.onrender.com/cars') // Adjust the URL to your json-server endpoint
+fetch('https://car-api-w6oq.onrender.com/cars') // Adjust the URL to your json-server endpoint
   .then(response => response.json()) // Parse the JSON response
   .then(data => { // Store the fetched data
     allCars = data;// Store all cars in the global variable
